@@ -1,1 +1,2 @@
-![link of google]http://www.goole.com
+![link of google](http://www.goole.com).
+[text](http://example.com).
