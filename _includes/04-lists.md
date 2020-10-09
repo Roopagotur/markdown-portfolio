@@ -1,0 +1,9 @@
+* Book
+* Mobile
+  * Honor
+  * Redmi
+1. Loptop
+2. xyz
+3. Karnataka
+   1. Belgaum
+   2. Dharwad
